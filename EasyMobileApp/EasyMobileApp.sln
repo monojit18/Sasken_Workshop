@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMobileApp", "EasyMobileApp\EasyMobileApp.csproj", "{C91F4D94-DE06-445F-A0D8-DBED1431DAB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMobileApp.Tests", "EasyMobileApp.Tests\EasyMobileApp.Tests.csproj", "{E1A49F91-EAA8-4A8B-866F-5BA1248D853B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91F4D94-DE06-445F-A0D8-DBED1431DAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91F4D94-DE06-445F-A0D8-DBED1431DAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91F4D94-DE06-445F-A0D8-DBED1431DAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91F4D94-DE06-445F-A0D8-DBED1431DAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A49F91-EAA8-4A8B-866F-5BA1248D853B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A49F91-EAA8-4A8B-866F-5BA1248D853B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A49F91-EAA8-4A8B-866F-5BA1248D853B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A49F91-EAA8-4A8B-866F-5BA1248D853B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF4995B2-6D57-4298-BD65-528BA6E2DD3F}
+	EndGlobalSection
+EndGlobal

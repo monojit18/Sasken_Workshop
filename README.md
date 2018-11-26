@@ -83,3 +83,17 @@ Azure subscription all from within the VSCode IDE
 5. Go back to DevOps portal and see how Build and Release happens, sequentially
 
 
+Reference:
+
+1. Azure AD - https://docs.microsoft.com/en-us/azure/active-directory/
+
+2. Azure API Management - https://docs.microsoft.com/en-us/azure/api-management/
+
+3 Serverless -    https://docs.microsoft.com/en-us/azure/azure-functions/
+                https://docs.microsoft.com/en-us/azure/logic-apps/
+        
+4. Azure Cognitive Services - https://docs.microsoft.com/en-us/azure/cognitive-services/
+                
+5. DevOps - https://docs.microsoft.com/en-us/azure/devops/index?view=vsts
+
+
